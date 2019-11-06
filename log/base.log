@@ -1,0 +1,42 @@
+2019-11-06 11:45:05.782  INFO 47690 --- [main] c.e.studybean.StudybeanApplication       : Starting StudybeanApplication on localhost with PID 47690 (/Users/yuming/Documents/sources/studybean/target/classes started by yuming in /Users/yuming/Documents/sources/studybean)
+2019-11-06 11:45:05.788  INFO 47690 --- [main] c.e.studybean.StudybeanApplication       : No active profile set, falling back to default profiles: default
+2019-11-06 11:45:06.873  INFO 47690 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-06 11:45:06.881  INFO 47690 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-06 11:45:06.882  INFO 47690 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 11:45:06.948  INFO 47690 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-06 11:45:06.948  INFO 47690 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1105 ms
+2019-11-06 11:45:07.122  INFO 47690 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 11:45:07.271  INFO 47690 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-11-06 11:45:07.379  INFO 47690 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 11:45:07.385  INFO 47690 --- [main] c.e.studybean.StudybeanApplication       : Started StudybeanApplication in 2.083 seconds (JVM running for 2.671)
+2019-11-06 11:45:12.003  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : this is scheduler task runing  0
+2019-11-06 11:45:12.004  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : 当前时间为: 2019-11-06 11:45:12
+2019-11-06 11:45:18.000  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : this is scheduler task runing  1
+2019-11-06 11:45:18.001  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : 当前时间为: 2019-11-06 11:45:18
+2019-11-06 11:45:24.005  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : this is scheduler task runing  2
+2019-11-06 11:45:24.006  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : 当前时间为: 2019-11-06 11:45:24
+2019-11-06 11:45:30.003  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : this is scheduler task runing  3
+2019-11-06 11:45:30.004  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : 当前时间为: 2019-11-06 11:45:30
+2019-11-06 11:45:36.003  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : this is scheduler task runing  4
+2019-11-06 11:45:36.004  INFO 47690 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : 当前时间为: 2019-11-06 11:45:36
+2019-11-06 11:45:39.660  INFO 47690 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-11-06 11:45:39.662  INFO 47690 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-06 11:45:45.641  INFO 47703 --- [main] c.e.studybean.StudybeanApplication       : Starting StudybeanApplication on localhost with PID 47703 (/Users/yuming/Documents/sources/studybean/target/classes started by yuming in /Users/yuming/Documents/sources/studybean)
+2019-11-06 11:45:45.644  INFO 47703 --- [main] c.e.studybean.StudybeanApplication       : No active profile set, falling back to default profiles: default
+2019-11-06 11:45:46.764  INFO 47703 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-06 11:45:46.772  INFO 47703 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-06 11:45:46.773  INFO 47703 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 11:45:46.834  INFO 47703 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-06 11:45:46.835  INFO 47703 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1111 ms
+2019-11-06 11:45:47.037  INFO 47703 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 11:45:47.210  INFO 47703 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-11-06 11:45:47.295  INFO 47703 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 11:45:47.298  INFO 47703 --- [main] c.e.studybean.StudybeanApplication       : Started StudybeanApplication in 2.203 seconds (JVM running for 2.786)
+2019-11-06 11:45:48.002  INFO 47703 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : this is scheduler task runing  0
+2019-11-06 11:45:48.002  INFO 47703 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : 当前时间为: 2019-11-06 11:45:48
+2019-11-06 11:45:54.000  INFO 47703 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : this is scheduler task runing  1
+2019-11-06 11:45:54.001  INFO 47703 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : 当前时间为: 2019-11-06 11:45:54
+2019-11-06 11:46:00.003  INFO 47703 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : this is scheduler task runing  2
+2019-11-06 11:46:00.004  INFO 47703 --- [scheduling-1] com.example.studybean.job.SchedulerTask  : 当前时间为: 2019-11-06 11:46:00
+2019-11-06 11:46:00.279  INFO 47703 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-11-06 11:46:00.280  INFO 47703 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
